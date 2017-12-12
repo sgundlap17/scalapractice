@@ -21,5 +21,6 @@ val a=List("spark","scala","training")
     println("return last element of list:"+a.last)
     val c=a.map(x=>x+""+"easy")
     println("concatenate easy to all words:"+c)
-    println("square root of 3:"+3 - pow(sqrt(3), 2))
-}}
+   // println("square root of 3:"+3-pow(sqrt(3), 2))
+}
+}
